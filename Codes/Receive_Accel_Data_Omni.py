@@ -1,3 +1,4 @@
+#Receives the Data through UDP
 import socket
 
 local_ip = "0.0.0.0"  
