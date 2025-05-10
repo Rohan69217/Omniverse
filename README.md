@@ -44,6 +44,9 @@ Implementation in Omniverse
 Foundation Components
 
 Omniverse Digital Twin Connector: Bridges real-world IoT sensors to the digital environment
+
 Physics Simulation: Accurate representation of real-world physics
+
 USD Framework: Standardized data format for complex scenes
+
 AI and Machine Learning Tools: For predictive analysis and optimization
